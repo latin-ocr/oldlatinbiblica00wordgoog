@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./oldlatinbiblica00wordgoog_0274.png"; bbox 0 0 4414 4917; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 929 419 1005 479">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 929 419 1005 479">
+     <span class='ocr_line' id='line_1_1' title="bbox 929 419 1005 479; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 929 419 1005 479; x_wconf 88' lang='lat'><em>18</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2009 426 2535 486">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2009 426 2535 486">
+     <span class='ocr_line' id='line_1_2' title="bbox 2009 426 2535 486; baseline 0 -2"><span class='ocrx_word' id='word_1_2' title='bbox 2009 426 2535 486; x_wconf 85' lang='lat' dir='ltr'><em>FRAGMENTA</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1466 665 3091 962">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1466 665 3091 962">
+     <span class='ocr_line' id='line_1_3' title="bbox 1466 665 3091 756; baseline 0.003 -26"><span class='ocrx_word' id='word_1_3' title='bbox 1466 665 1702 733; x_wconf 80' lang='lat' dir='ltr'><em>Primi</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1739 670 2186 750; x_wconf 83' lang='lat' dir='ltr'><em>quaternionis</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 2210 670 2461 751; x_wconf 85' lang='lat' dir='ltr'><em>folium</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 2503 679 2801 734; x_wconf 85' lang='lat' dir='ltr'><em>octauum</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 2831 667 3091 756; x_wconf 84' lang='lat' dir='ltr'><em>(uerso).</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1953 879 2599 962; baseline 0.003 -20"><span class='ocrx_word' id='word_1_8' title='bbox 1953 879 2212 943; x_wconf 83' lang='lat' dir='ltr'><em>Folium</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 2242 880 2599 962; x_wconf 84' lang='lat' dir='ltr'><em>perditum.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1523 1084 3044 1169">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1523 1084 3044 1169">
+     <span class='ocr_line' id='line_1_5' title="bbox 1523 1084 3044 1169; baseline 0.003 -16"><span class='ocrx_word' id='word_1_10' title='bbox 1523 1084 1909 1153; x_wconf 84' lang='lat' dir='ltr'><em>Continebat</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1948 1097 2026 1152; x_wconf 85' lang='lat' dir='ltr'><em>ut</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 2067 1088 2331 1154; x_wconf 82' lang='lat' dir='ltr'><em>uidetur</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 2372 1090 2522 1155; x_wconf 87' lang='lat' dir='ltr'><em>Act.</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 2567 1090 2758 1154; x_wconf 84' lang='lat' dir='ltr'><strong>xxvi.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 2816 1108 3044 1169; x_wconf 85' lang='lat'>14-21.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
